@@ -1,0 +1,11 @@
+{
+  "name": "farid",
+  "version": "0.0.1",
+  "description": "program ekstrakulikuler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmad farid wajdi taufiqi (faridwajdi2020@gmail.com)",
+  "license": "MIT"
+}
